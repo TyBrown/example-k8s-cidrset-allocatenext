@@ -1,4 +1,4 @@
-module github.com/tybrown/example-k8s-cidrset-allocatenext
+module github.com/TyBrown/example-k8s-cidrset-allocatenext
 
 go 1.19
 
